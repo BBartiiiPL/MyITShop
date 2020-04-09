@@ -1,0 +1,5 @@
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.DAL\bin\Debug\MyITShop.DAL.dll
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.DAL\bin\Debug\MyITShop.DAL.pdb
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.DAL\obj\Debug\MyITShop.DAL.csprojAssemblyReference.cache
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.DAL\obj\Debug\MyITShop.DAL.dll
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.DAL\obj\Debug\MyITShop.DAL.pdb

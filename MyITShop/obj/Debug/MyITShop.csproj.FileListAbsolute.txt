@@ -1,0 +1,13 @@
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\bin\Debug\MyITShop.exe.config
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\bin\Debug\MyITShop.exe
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\bin\Debug\MyITShop.pdb
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\MainWindow.g.cs
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\App.g.cs
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\MyITShop_MarkupCompile.cache
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\MyITShop_MarkupCompile.lref
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\MainWindow.baml
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\MyITShop.g.resources
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\MyITShop.Properties.Resources.resources
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\MyITShop.csproj.GenerateResource.cache
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\MyITShop.exe
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop\obj\Debug\MyITShop.pdb

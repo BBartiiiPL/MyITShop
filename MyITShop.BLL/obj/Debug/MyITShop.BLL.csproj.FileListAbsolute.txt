@@ -1,0 +1,5 @@
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.BLL\bin\Debug\MyITShop.BLL.dll
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.BLL\bin\Debug\MyITShop.BLL.pdb
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.BLL\obj\Debug\MyITShop.BLL.csprojAssemblyReference.cache
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.BLL\obj\Debug\MyITShop.BLL.dll
+C:\Users\bartl\Desktop\Projekty\MyITShop\MyITShop.BLL\obj\Debug\MyITShop.BLL.pdb
